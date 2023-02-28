@@ -1,0 +1,22 @@
+{
+  "name": "npm_tasks_b9.2.7",
+  "version": "1.0.0",
+  "description": "npm_tasks_b9.2.7_jquery",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailRyzhkin/npm_tasks_B9.2.7.git"
+  },
+  "author": "MikhailRizhkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailRyzhkin/npm_tasks_B9.2.7/issues"
+  },
+  "homepage": "https://github.com/MikhailRyzhkin/npm_tasks_B9.2.7#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
